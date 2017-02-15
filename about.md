@@ -7,7 +7,7 @@ imagefeature: fabriziomarmitt.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/fabriziomarmitt.jpg" alt="Hossain Mohammad Faysal">
+  <img src="{{ site.url }}/images/fabriziomarmitt.jpg" alt="Fabrizio Marmitt">
   <figcaption>Fabrizio Marmitt</figcaption>
 </figure>
 
